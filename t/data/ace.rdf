@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:admin="http://webns.net/mvcb/"
+xmlns:cc="http://web.resource.org/cc/"
+xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://ace.mu.nu/">
+<title>Ace of Spades HQ</title>
+<link>http://ace.mu.nu/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2013-09-21T17:09:27-04:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.64" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://minx.cc/?post=343571" />
+<rdf:li rdf:resource="http://minx.cc/?post=343557" />
+<rdf:li rdf:resource="http://minx.cc/?post=343569" />
+<rdf:li rdf:resource="http://minx.cc/?post=343564" />
+<rdf:li rdf:resource="http://minx.cc/?post=343565" />
+<rdf:li rdf:resource="http://minx.cc/?post=343562" />
+<rdf:li rdf:resource="http://minx.cc/?post=343548" />
+<rdf:li rdf:resource="http://minx.cc/?post=343559" />
+<rdf:li rdf:resource="http://minx.cc/?post=343540" />
+<rdf:li rdf:resource="http://minx.cc/?post=343558" />
+<rdf:li rdf:resource="http://minx.cc/?post=343556" />
+<rdf:li rdf:resource="http://minx.cc/?post=343555" />
+<rdf:li rdf:resource="http://minx.cc/?post=343554" />
+<rdf:li rdf:resource="http://minx.cc/?post=343553" />
+<rdf:li rdf:resource="http://minx.cc/?post=343541" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://minx.cc/?post=343571">
+<title>Terror Attack in Nairobi Mall Kills At Least 25</title>
+<link>http://minx.cc/?post=343571</link>
+<description>Horrifyng. Al Shahhab claimed guilt. via @BrentCochran1...</description>
+<dc:subject></dc:subject>
+<dc:creator>Ace</dc:creator>
+<dc:date>2013-09-21T17:09:27-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343557">
+<title>College Football Thread</title>
+<link>http://minx.cc/?post=343557</link>
+<description> Bumped. (See what I did there?) But there&apos;s new content below. Dave had to get a tune-up on one of his bionic parts this week, so I&apos;m standing in for him on the weekend football postin&apos;. Clemson (3) defeated...</description>
+<dc:subject></dc:subject>
+<dc:creator>Andy</dc:creator>
+<dc:date>2013-09-21T16:35:00-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343569">
+<title>The Onion&apos;s Film Critic Reveals the Hidden Homoerotic Subtext of &quot;Jaws&quot;</title>
+<link>http://minx.cc/?post=343569</link>
+<description>via @rdbrewer4, I don&apos;t know why this is supposed to be funny. I thought it was all pretty obvious....</description>
+<dc:subject></dc:subject>
+<dc:creator>Ace</dc:creator>
+<dc:date>2013-09-21T15:50:45-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343564">
+<title><![CDATA[Grand Theft Auto V Attacks <s>Conservatives</s> Liberals]]></title>
+<link>http://minx.cc/?post=343564</link>
+<description>It&apos;s so over-the-top I&apos;m half-suspicious it&apos;s actually some kind of ironic meta thing attacking conservatives. But I don&apos;t think so, not really. I don&apos;t think many people have so much faith in their audiences that they&apos;d assume they&apos;d look beyond...</description>
+<dc:subject></dc:subject>
+<dc:creator>Ace</dc:creator>
+<dc:date>2013-09-21T14:21:25-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343565">
+<title>A Philsophical Inquiry Into the Nature of Stupidity</title>
+<link>http://minx.cc/?post=343565</link>
+<description>Note: See Andy&apos;s College Football thread below for college football and hot cheerleaders. Niedermeyer&apos;s Dead Horse sends this. This is actually by some kind of economist. The piece itself is humorous in nature, and ornamented with quasi-economic language for comedic...</description>
+<dc:subject></dc:subject>
+<dc:creator>Ace</dc:creator>
+<dc:date>2013-09-21T12:57:31-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343562">
+<title>Nuclear Bomb 250 Times More Powerful Than The Hiroshima Bomb Almost Detonated Over North Carolina in 1961 </title>
+<link>http://minx.cc/?post=343562</link>
+<description>I don&apos;t have really anything to add to this, but it&apos;s one of those stories you really have to read. A secret document, published in declassified form for the first time by the Guardian today, reveals that the US Air...</description>
+<dc:subject></dc:subject>
+<dc:creator>JohnE.</dc:creator>
+<dc:date>2013-09-21T11:40:48-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343548">
+<title>NY/NJ Moron Meet-up/Open Thread [CBD]</title>
+<link>http://minx.cc/?post=343548</link>
+<description> We have managed to book a great band, but they&apos;re only available in Hoboken, on October 4th between 6pm and 9pm....</description>
+<dc:subject></dc:subject>
+<dc:creator>Open Blogger</dc:creator>
+<dc:date>2013-09-21T11:10:14-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343559">
+<title>Saturday Morning Open Thread</title>
+<link>http://minx.cc/?post=343559</link>
+<description>Lotta Fall out there. Whole lotta leaves....</description>
+<dc:subject></dc:subject>
+<dc:creator>Andy</dc:creator>
+<dc:date>2013-09-21T07:56:47-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343540">
+<title>Overnight Open Thread (20 Sep 2013)</title>
+<link>http://minx.cc/?post=343540</link>
+<description> Yes, California is screwed. I don&apos;t think Republican&apos;s can ever win again when you hear this type of stuff. Students at USC: Obama&apos;s Nobel Peace Prize Totally Deserved, But Can&apos;t Explain Why. Another student said she supported everything that...</description>
+<dc:subject></dc:subject>
+<dc:creator>CDR M</dc:creator>
+<dc:date>2013-09-20T22:05:36-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343558">
+<title>Now The Daily Mail Isn&apos;t Just Trolling, It&apos;s Parodying Itself For Trolling Open Thread</title>
+<link>http://minx.cc/?post=343558</link>
+<description>Are you ready? No, are you really ready? Because this is the ne plus ultra of trolling. This is the big one, boys. This is the big one. Are you ready? No, you think you are but I know you&apos;re...</description>
+<dc:subject></dc:subject>
+<dc:creator>Ace</dc:creator>
+<dc:date>2013-09-20T20:38:52-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343556">
+<title>Now We Have to... Filibuster the Defund Bill to Keep It From Passing to Actually Have a Chance to Defund ObamaCare?</title>
+<link>http://minx.cc/?post=343556</link>
+<description>Uhhh... I don&apos;t understand. You have to read the article. I could digest it but I couldn&apos;t, because I don&apos;t understand it. But Jonah Goldberg is calling the Defund strategy a &quot;long con.&quot; And not in a good way. As...</description>
+<dc:subject></dc:subject>
+<dc:creator>Ace</dc:creator>
+<dc:date>2013-09-20T20:03:19-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343555">
+<title>Two More Defections from Amnesty Gang of Eight; Bipartisan Amnesty Team Now Down to John McCain, Lindsey Graham, and Cheech Marin</title>
+<link>http://minx.cc/?post=343555</link>
+<description>Well no, not exactly, but there were two more defections. There had been an earlier one, so it was down to a Gang of Seven. I should have known that so I&apos;ll pretend I did. Now it&apos;s a gang of...</description>
+<dc:subject></dc:subject>
+<dc:creator>Ace</dc:creator>
+<dc:date>2013-09-20T19:33:14-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343554">
+<title>Report from KCRA:  Allan Brauer Resigns From Post of, Ahem, Communications Chair of Sacramento Area Democratic Party </title>
+<link>http://minx.cc/?post=343554</link>
+<description><![CDATA[Sac County Dems Chair tells KCRA @allanbrauer has resigned position following tweets to @amandacarpenter&mdash; Kevin Oliver (@KCRAKevin) September 20, 2013 Prior to that, Twitchy found some other vile things he tweeted at people (mostly women). He was serial offender. Thanks...]]></description>
+<dc:subject></dc:subject>
+<dc:creator>Ace</dc:creator>
+<dc:date>2013-09-20T18:53:35-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343553">
+<title>Nancy Pelosi:  &quot;I&apos;m a Crazy Lady Who Can&apos;t Be Trusted with Knives or String!!!&quot;</title>
+<link>http://minx.cc/?post=343553</link>
+<description>That&apos;s a rough translation from the original Gibbering of Lunatics. The original quote was even crazier. Throughout a 50-minute interview on Thursday in her second-floor Capitol office, where the late Speaker Tip O’Neill used to receive supplicants, Pelosi was sharply...</description>
+<dc:subject></dc:subject>
+<dc:creator>Ace</dc:creator>
+<dc:date>2013-09-20T18:22:42-04:00</dc:date>
+</item>
+<item rdf:about="http://minx.cc/?post=343541">
+<title><![CDATA[AoSHQ Podcast: Special Guest, Sonny Bunch from <i>The Washington Free Beacon</i>]]></title>
+<link>http://minx.cc/?post=343541</link>
+<description>On today&apos;s episode, PhD&apos;s Drew M., John E., Rick Tempest and I are joined by Sonny Bunch, PhD, Editor of The Washington Free Beacon. We discuss the media&apos;s rush to blame the AR-15 for the Navy Yard shooting, Starbucks&apos; announcement...</description>
+<dc:subject></dc:subject>
+<dc:creator>Andy</dc:creator>
+<dc:date>2013-09-20T17:20:00-04:00</dc:date>
+</item>
+
+
+</rdf:RDF>

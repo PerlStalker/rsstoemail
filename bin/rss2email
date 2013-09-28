@@ -1,0 +1,11 @@
+#!/usr/bin/env perl
+use warnings;
+use strict;
+
+use FindBin;
+use Cwd qw(realpath);
+#use local::lib "$FindBin::Bin/../lib";
+use lib        "$FindBin::Bin/../lib";
+
+use R2E::CLI;
+R2E::CLI->new_with_command->run;
