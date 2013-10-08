@@ -21,7 +21,7 @@ use utf8;
 use R2E::Cache::File;
 use R2E::DB::Result::Feed;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 # TODO auto create based on global config
 has db => (
@@ -276,6 +276,12 @@ method _fetch_article (
     }
 }
 
+method strip_ws (Str $string) {
+    my $stripped = $string;
+    $stripped =~ s/^\s*?(\S+)\s*?$/$1/; # strip whitespace
+    return $stripped;
+}
+
 method _fetch_feed_rai (
     R2E::DB::Result::Feed $feed
     ) {
@@ -307,12 +313,13 @@ method _fetch_feed_rai (
     
     foreach my $article ( @{ $parsed->items } ) {
 	## add feed to db
+
 	my $opts = {
 	    feed_id    => $feed->feed_id,
 	    identifier => $article->identifier,
-	    title      => $article->title,
+	    title      => $self->strip_ws($article->title),
 	    date       => $article->created,
-	    link       => $article->link,
+	    link       => $self->strip_ws($article->link),
 	};
 	my $article_record = $self->db->resultset("Article")->find_or_create($opts);
 	next if $article_record->seen;
@@ -355,12 +362,17 @@ method _fetch_feed_feedpp (
     };
     
     foreach my $article ($parsed->get_item()) {
+	# I've run into a feed that sometimes has a new line at the
+	# end of the link.
+	my $link = $article->link;
+	$link =~ s/^\s*?(\S+)\s*?$/$1/; # strip whitespace
+
 	my $opts = {
 	    feed_id    => $feed->id,
 	    identifier => $article->guid ? $article->guid : $article->link,
-	    title      => $article->title,
+	    title      => $self->strip_ws($article->title),
 	    date       => $article->pubDate,
-	    link       => $article->link,
+	    link       => $self->strip_ws($link),
 	};
 	my $article_record = $self->db->resultset("Article")->find_or_create($opts);
 	next if $article_record->seen;

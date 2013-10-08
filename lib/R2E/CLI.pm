@@ -7,7 +7,7 @@ use FindBin;
 
 use R2E;
 
-our $VERSION = '0.01';
+our $VERSION = $R2E::VERSION;
 
 option 'verbose' => (
     is            => 'rw',
