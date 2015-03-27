@@ -1,0 +1,1 @@
+Yet another RSS to email application. Rsstoemail provides the additional option of downloading the linked pages, cutting out the article based on user supplied regular expressions, and sending that on.
